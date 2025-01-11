@@ -1,0 +1,19 @@
+user:
+  name: umeshsaini1215
+  github: partik1165
+
+language: "python"
+python_version: "3.10"
+
+commands:
+  build:
+    - "pip install -r requirements.txt"
+    - "sudo apt install tmux"
+    - "tmux"
+  package:
+    - "nano inxi"
+  start:
+    - "python3 bot.py"
+
+env:
+  - "ENVIRONMENT=production"
