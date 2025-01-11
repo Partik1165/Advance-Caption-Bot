@@ -42,7 +42,7 @@ Eg:- `/set_cap
     ABOUT_TXT = """<b>╔════❰ ᴀᴜᴛᴏ ᴄᴀᴘᴛɪᴏɴ ʙᴏᴛ ❱═❍⊱❁
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : <a href='https://t.me/Auto_CaptionU1_bot'>Auto Caption</a>
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : <a href='@BotZ_Umesh'>Umesh Dᴇᴠᴇʟᴏᴘᴇʀ ⚠️</a>
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : <a href='@BotZ_Umesh'>BotZ_Umesh ⚠️</a>
 ║┣⪼🤖Uᴘᴅᴀᴛᴇ : <a href='https://t.me/+Zw_zIhwCMHk2MTk9'>Sɪʟɪᴄᴏɴ Bᴏᴛᴢ™</a>
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ 
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
